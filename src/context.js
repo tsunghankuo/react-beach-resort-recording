@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import items from './data';
-import Client from './Contentful';
+import Client from './contentful';
 
 const RoomContext = React.createContext();
 // <RoomContext.Provider value={'hello'}>
